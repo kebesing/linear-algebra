@@ -24,3 +24,5 @@ uniurl: "http://www.uni.edu"
 sageurl: "http://www.sagemath.org"
 smcurl: "http://cloud.sagemath.com"
 sagecellurl: "http://sagecell.sagemath.org"
+
+theme: jekyll-theme-cayman
