@@ -12,7 +12,7 @@ can make the study of mathematics easier:
 It is getting to the point where calling yourself a mathematician means you can
 use a computer to do those things as part of problem solving, when appropriate.
 
-The UNI Math Department has decided that Math 2500 is the course where we
+The UNI Math Department has decided that MATH307 is the course where we
 will teach basic mathematical computing. The main reason is that introductory
 linear algebra is full of interesting things that can only be understood after
 routine, tedious computations, and also has a important 3d visualization component.
